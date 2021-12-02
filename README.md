@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Zhuo Li, a second year Master candidate at Peking University, advised by Prof. Ge Li[https://scholar.google.co.uk/citations?user=PPqcVRwAAAAJ&hl=zh-CN].
+Currently, I have research interests in Deep Learning, Software Engineering and Natural Language Processing.
+
 <!--
 **Lizhmq/Lizhmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
