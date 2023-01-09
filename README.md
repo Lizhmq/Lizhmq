@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Zhuo Li, a second year Master candidate at Peking University, advised by Prof. [Ge Li](https://scholar.google.co.uk/citations?user=PPqcVRwAAAAJ&hl=zh-CN).
+I'm Zhuo Li, a third year Master candidate at Peking University, advised by Prof. [Ge Li](https://scholar.google.co.uk/citations?user=PPqcVRwAAAAJ&hl=zh-CN).
 
-Btw, feel free to call me Akino Li (my Japanese name :)
+Btw, you can also call me Akino Li (my Japanese name :)
 
 Currently, I have research interests in Deep Learning, Software Engineering and Natural Language Processing.
 
